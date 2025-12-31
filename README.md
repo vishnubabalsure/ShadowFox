@@ -13,7 +13,10 @@ This internship at ShadowFox provided hands-on experience in Python-based data a
 
 3.Sports Analytics: Cricket Fielding Performance ⚾
 
-🛠 Tasks Overview 1️⃣ Task 1: Mastering Data Visualization with Python
+
+🛠 Tasks Overview 
+
+1️⃣ Task 1: Mastering Data Visualization with Python
 
 *Objective: Visualize data to identify patterns, trends, and distributions.
 
@@ -55,7 +58,8 @@ Highlights:
 
 📁Folder Structure
 
-ShadowFox/ ├── README.md
+ShadowFox/
+├── README.md
 
 ├── Task-1-Documentation/
 
